@@ -40,4 +40,4 @@ Once you save your entry it will be automatically re-formatted and copied to you
 
 ## License
 
-All of my code in this project is MIT Licensed - see the LICENSE.md file for details.
+All of my code in this project is MIT Licensed - see the LICENSE file for details.
