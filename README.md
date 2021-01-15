@@ -7,9 +7,12 @@ This is a formatter I wrote to make copy and pasting with poorly formatted text 
 #### DEPENDENCIES
   * python 3
   * pyperclip
-    * Install with ```pip install pyperclip```
+    * Install with `pip install pyperclip`
 
-Install with `git clone https://github.com/N1H1L0/Formatter.git Formatter --recursive; cd Formatter`
+Install with:
+```sh 
+git clone https://github.com/N1H1L0/Formatter.git Formatter --recursive; cd Formatter
+```
 
 Run with `./format.py` OR `python3 format.py`
 
